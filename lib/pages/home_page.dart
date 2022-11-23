@@ -50,7 +50,7 @@ class _HomePageState extends State<HomePage> {
                       content: 'Grand Theft Auto V (сокр. GTA V) — мультиплатформенная компьютерная игра в жанре action-adventure с открытым миром, разработанная компанией Rockstar North и изданная компанией Rockstar Games.',
                       imageOne: 'assets/gta/img_7.png',
                       imageTwo: 'assets/gta/img_5.png',
-                      imageThere: 'assets/gta/img_4.png'
+                      imageThere: 'assets/gta/img_4.png',
                     ),
                     _subscribe(
                         3,
